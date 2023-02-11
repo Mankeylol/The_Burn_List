@@ -1,0 +1,24 @@
+{
+  "name": "the_burn_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.18.0",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.73.2",
+    "axios": "^1.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^4.9.5"
+  }
+}
